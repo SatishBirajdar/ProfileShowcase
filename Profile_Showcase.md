@@ -3,8 +3,8 @@
 ## Emerging technologies
 [Emphasis](#emphasis)
 
-1. [Mobile tech stack](#mobile_tech_stack)
-2. [Artificial Intelligence](#Artificial_Intelligence)
+1. [Mobile tech stack](#mobiletechstack)
+2. [Artificial Intelligence](#ArtificialIntelligence)
 3. [Cryptocurrency](#cryptocurrency)
 
 
