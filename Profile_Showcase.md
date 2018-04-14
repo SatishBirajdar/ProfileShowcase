@@ -3,21 +3,21 @@
 ## Emerging technologies
 [Emphasis](#emphasis)
 
-1. [Mobile tech stack](#mobile tech stack)
-2. [Artificial Intelligence](#artificial_intelligence)
+1. [Mobile tech stack](#mobile_tech_stack)
+2. [Artificial Intelligence](#Artificial_Intelligence)
 3. [Crypto-currency](#crypto_currency)
 
 
 	
-# Mobile tech stack
+# Mobile tech stack:
 		  i. iOS
 		 ii. Android
 		iii. Xamarin
 
-# Artificial Intelligence
+# Artificial Intelligence:
 
 
-# Crypto-currency
+# Crypto-currency:
 
 	Norchain neo coin:
 
