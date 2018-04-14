@@ -1,17 +1,37 @@
 # Profile show-case:
 
 ## Emerging technologies
+[Emphasis](#emphasis)
 
-	1. [Mobile tech stack](#mobile_tech_stack)
-		  i. iOS
-		 ii. Android
-		iii. Xamarin
-	2. Artificial Intelligence
-	3. Crypto-currency
+1. [Mobile tech stack](#mobile_tech_stack)
+2. [Artificial Intelligence](#artificial_intelligence)
+3. [Crypto-currency](crypto_currency)
 
 
 	
 # Mobile tech stack
+		  i. iOS
+		 ii. Android
+		iii. Xamarin
+
+# Artificial Intelligence
+
+
+# Crypto-currency
+
+	Norchain neo coin:
+
+	https://github.com/NEOCompToronto/NEOCompetition
+
+
+	Website: http://norchain.io/home/
+
+
+	Award: https://neo.org/awards.html
+	Rank - 29/460 teams
+
+
+	Neo competition website: https://neo.org/competition.html
 
 
 [Emphasis](#emphasis)
