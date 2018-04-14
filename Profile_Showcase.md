@@ -5,7 +5,7 @@
 
 1. [Mobile tech stack](#mobile_tech_stack)
 2. [Artificial Intelligence](#Artificial_Intelligence)
-3. [Crypto-currency](#crypto_currency)
+3. [Cryptocurrency](#cryptocurrency)
 
 
 	
@@ -17,7 +17,7 @@
 # Artificial Intelligence:
 
 
-# Crypto-currency:
+# Cryptocurrency:
 
 	Norchain neo coin:
 
