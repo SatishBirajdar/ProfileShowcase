@@ -39,28 +39,16 @@
 	3. Attended Avanade's AI bootcamp. (basic understanding of Azure Notebook, Azure Machine Learning Workbench, Microsoft cognitive services, Neural network, Tensor flow)
 	4. Learning pytorch
 
-
-
-
-Pitching up for new project with  Yhessika and mike
-
-
-
 # Cryptocurrency:
 
-	Norchain neo coin:
+1. Basic understanding of crypto-currencies. (Bitcoin, Etherum, Ripple, IOTA, Neo)
 
-	https://github.com/NEOCompToronto/NEOCompetition
+2. Participated in [dev competition](https://neo.org/competition.html) arranged by Neo & Microsoft. 
 
-
-	Website: http://norchain.io/home/
-
-
-	Award: https://neo.org/awards.html
-	Rank - 29/460 teams
+3. My [team](http://norchain.io/home/) developed a currency called NEOT, for this competition and ranked 29 out of 460 participants globally. [Awards](https://neo.org/awards.html) 
 
 
-	Neo competition website: https://neo.org/competition.html
+
 
 
 
