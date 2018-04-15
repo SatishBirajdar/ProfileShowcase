@@ -26,8 +26,8 @@
    Worked on 2 android apps.
 
 3. Xamarin
-		1. Xamarin certified mobile developer
-		2. Worked on messenger app
+	1. Xamarin certified mobile developer
+	2. Worked on messenger app
 
 4. Research Paper on native vs cross-platform mobile application
 
