@@ -46,4 +46,4 @@
 
 2. Participated in [dev competition](https://neo.org/competition.html) arranged by Neo & Microsoft. 
 
-3. My [team](http://norchain.io/home/) developed a currency called NEOT, for this competition and ranked 29 out of 460 participants globally. [Awards](https://neo.org/awards.html) 
+3. My [team](http://www.norchain.io/home/neot.html) developed a currency called NEOT, for this competition and ranked 29 out of 460 participants globally. [Awards](https://neo.org/awards.html) 
