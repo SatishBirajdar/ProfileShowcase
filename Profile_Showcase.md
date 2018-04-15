@@ -15,7 +15,7 @@
 
 
 	
-# Mobile tech stack:
+### Mobile tech stack:
 
 	1. iOS
 
@@ -32,14 +32,14 @@
 
 	5. Spare-time personal web & mobile projects. ([Github repo](https://github.com/SatishBirajdar?tab=repositories))
 
-# Artificial Intelligence:
+### Artificial Intelligence:
 
 	1. Worked on Blackberry Voice Assistant application using Natural language processing approach (Maluuba NLP)
 	2. Certified Machine Learning - Standford University (Coursera)
 	3. Attended Avanade's AI bootcamp. (basic understanding of Azure Notebook, Azure Machine Learning Workbench, Microsoft cognitive services, Neural network, Tensor flow)
 	4. Learning pytorch
 
-# Cryptocurrency:
+### Cryptocurrency:
 
 1. Basic understanding of crypto-currencies. (Bitcoin, Etherum, Ripple, IOTA, Neo)
 
