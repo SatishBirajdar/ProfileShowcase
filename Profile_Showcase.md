@@ -16,10 +16,10 @@
 1. [Mobile tech stack](#mobile-tech-stack)
 2. [Artificial Intelligence](#artificial-intelligence)
 3. [Cryptocurrency](#cryptocurrency)
-4. [Web tech stack](web-tech-stack)
-5. [Sales Experience](sales-experience)
-6. [Professional References](professional-references)
-7. [Under-development tech stack](under-development-tech-stack)
+4. [Web tech stack](#web-tech-stack)
+5. [Sales Experience](#sales-experience)
+6. [Professional References](#professional-references)
+7. [Under-development tech stack](#under-development-tech-stack)
 
 	
 ### Mobile tech stack:
@@ -28,25 +28,26 @@
 
    Worked on 7 iOS apps, please check my personal [website](https://satishbirajdar.github.io/).
 
-	   		a. Air Canada
-	   		b. AllState Insurance, Canada
-	   		c. BMO - ESign
-	   		d. Confused Mind
-	   		e. Radio Sphere
-	   		f. CGI - Resource Management POC
-	   		g. DocChatter
+   		a. Air Canada
+   		b. AllState Insurance, Canada
+   		c. BMO - ESign
+   		d. Confused Mind
+   		e. Radio Sphere
+   		f. CGI - Resource Management POC
+   		g. DocChatter
 
 2. Android
 
    Worked on 2 android apps, please check my personal [website](https://satishbirajdar.github.io/).
 
-	   		a. AllState Insurance, Canada
-	   		b. Music Theme
+   		a. AllState Insurance, Canada
+   		b. Music Theme
 
 3. Xamarin
 
-			1. Certified Xamarin mobile developer (2016).
-			2. Worked on messenger app, TeraMessage.
+	i.  Certified Xamarin mobile developer (2016). 
+	
+	ii. Worked on messenger app, TeraMessage.
 
 4. Research Paper on native vs cross-platform mobile application.
 
