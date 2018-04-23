@@ -5,16 +5,21 @@
 ## Architecture and leadership experience:
 
 1. Experienced with businesses like Banking, Insurance, Airlines.
-2. Worked with three types of architechture MVC, MVVM and MVP.
+2. Worked with three types of architechture patterns MVC, MVVM and MVP.
 2. Managed two teams of 3 developers each.
 3. Interacted with clients, product managers, and developers.
 4. Junior Mobile Artichtect experience, including producing technical documentation, and diagrams.
+5. Worked with Representational State Transfer (RESTful) web services.
 
 ## Emerging technologies
 
 1. [Mobile tech stack](#mobile-tech-stack)
 2. [Artificial Intelligence](#artificial-intelligence)
 3. [Cryptocurrency](#cryptocurrency)
+4. [Web tech stack](web-tech-stack)
+5. [Sales Experience](sales-experience)
+6. [Professional References](professional-references)
+7. [Under-development tech stack](under-development-tech-stack)
 
 	
 ### Mobile tech stack:
@@ -62,7 +67,7 @@
 
 3. My [team](http://www.norchain.io/home/neot.html) introduced project NEOT (NEO of Things) a proposal to leverage PROV service model and NEO blockchain. Our project was ranked 29 out of 460 participants globally. [Awards](https://neo.org/awards.html) 
 
-### Web development:
+### Web tech stack:
 
 1. Experience with CMS tools, like Joomla, Drupal, Wordpress.
 2. Languages HTML5, CSS3, JSP, PHP, JQueryMobile.
@@ -82,7 +87,8 @@
 
 ### Under-development tech stack:
 
-1. Azure
+1. Azure Cloud
 2. AWS Cloud services
+3. Google Cloud
 3. Xamarin Forms
 
