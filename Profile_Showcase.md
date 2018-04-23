@@ -98,4 +98,4 @@
 2. AWS Cloud services
 3. Google Cloud
 3. Xamarin Forms
-
+4. Presentation skills
