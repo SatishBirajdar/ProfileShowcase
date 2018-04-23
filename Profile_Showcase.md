@@ -12,7 +12,7 @@
 5. Worked with Representational State Transfer (RESTful) web services.
 6. Integrated Google Analytics for Firebase with iOS and Android apps.
 
-## Emerging technologies
+## Familiar technologies:
 
 1. [Mobile tech stack](#mobile-tech-stack)
 2. [Artificial Intelligence](#artificial-intelligence)
@@ -71,8 +71,11 @@
 
 ### Web tech stack:
 
-1. Experience with CMS tools, like Joomla, Drupal, Wordpress.
-2. Languages HTML5, CSS3, JSP, PHP, JQueryMobile.
+1. Worked on 2 web apps.
+	i.  [Air Blow Control](http://airblowcontrol.in/)
+	ii. Tech-forum
+2. Experience with CMS tools, like Joomla, Drupal, Wordpress.
+3. Languages HTML5, CSS3, JSP, PHP, JQueryMobile.
 
 
 ### Sales Experience:
