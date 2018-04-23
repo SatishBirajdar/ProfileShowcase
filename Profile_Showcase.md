@@ -63,7 +63,7 @@
 
 ### Cryptocurrency:
 
-1. Basic understanding of crypto-currencies. (Bitcoin, Etherum, Ripple, IOTA, Neo)
+1. Basic understanding of crypto-currencies. (Bitcoin, Neo)
 
 2. Participated in [dev competition](https://neo.org/competition.html) organized by Neo & Microsoft. 
 
