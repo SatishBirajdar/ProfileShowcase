@@ -58,7 +58,7 @@
 
 1. Basic understanding of crypto-currencies. (Bitcoin, Etherum, Ripple, IOTA, Neo)
 
-2. Participated in [dev competition](https://neo.org/competition.html) arranged by Neo & Microsoft. 
+2. Participated in [dev competition](https://neo.org/competition.html) organized by Neo & Microsoft. 
 
 3. My [team](http://www.norchain.io/home/neot.html) introduced project NEOT (NEO of Things) a proposal to leverage PROV service model and NEO blockchain. Our project was ranked 29 out of 460 participants globally. [Awards](https://neo.org/awards.html) 
 
@@ -85,3 +85,4 @@
 1. Azure
 2. AWS Cloud services
 3. Xamarin Forms
+
