@@ -99,3 +99,4 @@
 3. Google Cloud
 3. Xamarin Forms
 4. Presentation skills
+5. Pluralsight course - Developer to Architect
