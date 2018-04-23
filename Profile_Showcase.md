@@ -10,6 +10,7 @@
 3. Interacted with clients, product managers, and developers.
 4. Junior Mobile Artichtect experience, including producing technical documentation, and diagrams.
 5. Worked with Representational State Transfer (RESTful) web services.
+6. Integrated Google Analytics for Firebase with iOS and Android apps.
 
 ## Emerging technologies
 
@@ -46,7 +47,7 @@
 3. Xamarin
 
 	i.  Certified Xamarin mobile developer (2016). 
-	
+
 	ii. Worked on messenger app, TeraMessage.
 
 4. Research Paper on native vs cross-platform mobile application.
