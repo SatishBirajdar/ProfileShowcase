@@ -97,6 +97,7 @@
 1. Azure Cloud
 2. AWS Cloud services
 3. Google Cloud
-3. Xamarin Forms
-4. Presentation skills
-5. Pluralsight course - Developer to Architect
+4. Docker
+5. Xamarin Forms
+6. Presentation skills
+7. Pluralsight course - Developer to Architect
